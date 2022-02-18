@@ -1,5 +1,5 @@
 body{
-    background:url('../Images/background2.jpg');
+    background:url('Images/background2.jpg');
     background-attachment: fixed;
     background-position: center;
     overflow-x: hidden;
@@ -343,17 +343,17 @@ body{
 
 
  .image-testimonial1{
-     background: url('../Images/john.jpg');
+     background: url('Images/john.jpg');
  }
  .image-testimonial2{
-    background: url('../Images/jane.jpg');
+    background: url('Images/jane.jpg');
 }
 .image-testimonial3{
-    background: url('../Images/jane2.jpg');
+    background: url('Images/jane2.jpg');
 }
 
 .image-testimonial4{
-    background: url('../Images/john2.jpg');
+    background: url('Images/john2.jpg');
 }
 
 
